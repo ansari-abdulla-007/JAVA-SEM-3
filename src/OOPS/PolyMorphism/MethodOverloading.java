@@ -1,5 +1,6 @@
 package OOPS.PolyMorphism;
 // Method overloading is a feature in java in which multiple methods have the same name but different parameter lists within the same class.
+// causes compile time error.
 public class MethodOverloading {
     public static void main(String[] args){
         Student s1 = new Student();
